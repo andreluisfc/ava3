@@ -1,0 +1,11 @@
+Construa um app com vuejs 3 que atenda aos seguites critérios
+
+1. [2.0 pt] No mínimo 2 rotas: Login e CRUD;
+2. [2.0 pt] Faça um CRUD com Firebase;
+3. [2.0 pt] Faça LOGIN social com Firebase;
+4. [2.0 pt] Utilize o Pinia para armazenar o estado de logado. A tela do CRUD só pode aparecer se o usuário estiver logado;
+5. [2.0 pt] Deve ser usado o vuetify;
+
+
+
+Coloque os arquivos no seu github e envie o link de acesso público como resposta desta tarefa.
